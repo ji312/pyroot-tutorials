@@ -4,7 +4,7 @@ pyroot-tutorials
 [PyROOT](http://root.cern.ch/drupal/content/pyroot) is a [Python](http://en.wikipedia.org/wiki/Python_(programming_language)) programming language extension module that allows the user to interact with any [ROOT](http://root.cern.ch) class from the Python interpreter.
 The [``rootpy``](https://github.com/rootpy/rootpy) and [``root_numpy``](https://github.com/rootpy/root_numpy) projects build on top of ``PyROOT`` to make working with ROOT from Python more user-friendly and faster, they come with their own [webpage](http://rootpy.org), which contains links to tutorials and reference documentation.
 
-``PyROOT`` does come with a [manual](http://wlav.web.cern.ch/wlav/pyroot/) and tutorial example scripts at ``tutorials/pyroot/*.py`` (see online [here](https://github.com/bbannier/ROOT/tree/master/tutorials/pyroot)).
+``PyROOT`` does come with a [manual](http://wlav.web.cern.ch/wlav/pyroot/) and tutorial example scripts at ``tutorials/pyroot/*.py`` (see online [here](https://github.com/root-mirror/root/tree/master/tutorials/pyroot)).
 
 Here we aim to provide additional ``PyROOT`` tutorials and documentation that are supposed to
 * make it easier to get started with ``PyROOT`` (check out the introduction IPython notebook)
